@@ -11,5 +11,5 @@ def replace(st):
 
 string = input("Enter a String: ")
 answer = replace(string)
-print("The original String is: ",string)
-print("The modified String is: ",answer)
+print("The original String is: ", string)
+print("The modified String is: ", answer)
